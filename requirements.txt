@@ -3,7 +3,7 @@ evaluate==0.4.3
 matplotlib==3.10.1
 numpy==2.2.4
 peft==0.15.1
-Pillow==11.2.1
+Pillow==11.3.0
 pycocoevalcap==1.2
 torch==2.6.0
 torchinfo==1.8.0
